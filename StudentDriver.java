@@ -8,17 +8,17 @@ public class StudentDriver {
 //		 TODO Auto-generated method stub
 
 		
-//		Student s1=new Student("Sri");
-//		s1.address="Chennai";
-//		s1.gpa=8.8f;
-//		
-//		Student s2=new Student("Ananth"); // Idhula kooda Anandh Sunniya pudichu thaan oombuviya
-//		s2.address="Attur";
-//		s2.gpa=8.8f;
-//		
-//		System.out.println("Student 1:"+" "+s1.name+" "+s1.gpa+" "+s1.address);
-//		System.out.println("Student 2:"+" "+s2.name+" "+s2.gpa+" "+s2.address);
-//		
+		Student s1=new Student("Sri");
+		s1.address="Chennai";
+		s1.gpa=8.8f;
+		
+		Student s2=new Student("Ananth");
+		s2.address="Attur";
+		s2.gpa=8.8f;
+		
+		System.out.println("Student 1:"+" "+s1.name+" "+s1.gpa+" "+s1.address);
+		System.out.println("Student 2:"+" "+s2.name+" "+s2.gpa+" "+s2.address);
+		
 		Student mStud=new MNCStudent("Kartick");
 		mStud.gpa=3.5f;
 		
